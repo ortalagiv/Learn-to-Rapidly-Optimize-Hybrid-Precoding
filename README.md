@@ -1,6 +1,8 @@
 # Learn to Rapidly Optimize Hybrid Precoding
 
-Python repository for the paper "Learn to Rapidly Optimize Hybrid Precoding".
+Python repository for the paper:
+
+O. Agiv, N.Shlezinger, "Learn to Rapidly Optimize Hybrid Precoding," submitted to the IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), 2022.
 
 Please cite our paper if the code is used for publishing research.
 
