@@ -2,7 +2,7 @@
 
 Python repository for the paper:
 
-O. Agiv, N.Shlezinger, "Learn to Rapidly Optimize Hybrid Precoding," submitted to the IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), 2022.
+O. Agiv, N.Shlezinger, "Learn to Rapidly Optimize Hybrid Precoding," was accepted to the IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), 2022. Link for the paper - https://ieeexplore.ieee.org/document/9833923 .
 
 Please cite our paper if the code is used for publishing research.
 
