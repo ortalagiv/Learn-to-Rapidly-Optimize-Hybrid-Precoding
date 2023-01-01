@@ -1,4 +1,4 @@
-# ---- Learn to Rapidly Optimize for Hybrid Precoding ----
+# ---- Learn to Rapidly and Robustly Optimize for Hybrid Precoding ----
 # --- Ortal Agiv (agivo@post.bgu.ac.il) and Nir Shlezinger (nirshl@bgu.ac.il) ---
 
 import numpy as np
