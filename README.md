@@ -2,7 +2,9 @@
 
 Python repository for the paper:
 
-O. Lavi, N.Shlezinger, "Learn to Rapidly and Robustly Optimize Hybrid Precoding," submitted to the  IEEE Transactions on Communications. 
+O. Lavi and N. Shlezinger, "Learn to Rapidly and Robustly Optimize Hybrid Precoding," in IEEE Transactions on Communications, vol. 71, no. 10, pp. 5814-5830, Oct. 2023. 
+
+https://ieeexplore.ieee.org/document/10173560
 
 Please cite our paper if the code is used for publishing research.
 
